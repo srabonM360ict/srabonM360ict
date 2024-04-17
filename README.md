@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nodejs
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on backend
-- 📫 How to reach me devsrabon
+- 📫 How to reach me @devsrabon
 - ⚡ Fun fact: ...
 
 <!---
